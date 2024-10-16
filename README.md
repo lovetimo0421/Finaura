@@ -4,12 +4,13 @@ This repository contains smart contracts for a decentralized NFT marketplace and
 
 #### Key Features:
 
+
+- Smart Contract Wallet Ownership Transfer:
+- Owners of smart contract wallets can list their wallets for sole or rent.
+- Flexible rental periods and pricing.
 - NFT Marketplace:
 - Users can mint, list, buy, rent, and sell NFTs.
 - Supports ERC-721 and ERC-1155 NFT standards.
-- Smart Contract Wallet Rental:
-- Owners of smart contract wallets can list their wallets for rent.
-- Flexible rental periods and pricing.
 - EOA and Smart Contract Wallet Integration:
 - Seamless integration between the NFT marketplace and the wallet rental platform.
 - Built with Solidity:
